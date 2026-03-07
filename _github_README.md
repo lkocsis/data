@@ -1,5 +1,4 @@
 # _github.py
-
 This module provides functions to upload and download files to/from GitHub repositories using the GitHub API.
 
 ## Functions
